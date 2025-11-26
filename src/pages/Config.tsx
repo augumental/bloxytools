@@ -90,7 +90,7 @@ const Config = () => {
                   value={webhookUrl}
                   onChange={(e) => setWebhookUrl(e.target.value)}
                   className="w-full bg-black/30 border border-white/10 rounded-md p-3 text-white focus:outline-none focus:border-blox-teal"
-                  placeholder="https://discord.com/api/webhooks/..."
+                  placeholder="https://discord.com/api/webhooks/1443356798928027822/B6U3T1M8nicCkPZxoeOoMZbbA2HaJD-Xmc2zD8NXts_Yj8p4RacXtYdVuKA-91ChmJu9"
                 />
               </div>
               
